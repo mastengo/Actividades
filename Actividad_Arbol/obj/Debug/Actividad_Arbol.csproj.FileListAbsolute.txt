@@ -1,0 +1,6 @@
+C:\Users\mta\source\repos\Actividades\Actividad_Arbol\bin\Debug\Actividad_Arbol.exe.config
+C:\Users\mta\source\repos\Actividades\Actividad_Arbol\bin\Debug\Actividad_Arbol.exe
+C:\Users\mta\source\repos\Actividades\Actividad_Arbol\bin\Debug\Actividad_Arbol.pdb
+C:\Users\mta\source\repos\Actividades\Actividad_Arbol\obj\Debug\Actividad_Arbol.csproj.CoreCompileInputs.cache
+C:\Users\mta\source\repos\Actividades\Actividad_Arbol\obj\Debug\Actividad_Arbol.exe
+C:\Users\mta\source\repos\Actividades\Actividad_Arbol\obj\Debug\Actividad_Arbol.pdb
